@@ -1,0 +1,168 @@
+*{
+	padding:0;
+	margin:0;
+}
+ul,li,ol{
+	list-style:none;
+}
+a{
+	text-decoration:none;
+}
+.header{
+	width:100%;
+	height:173px;
+	background-color:#eeeeef;
+}
+.logo{
+	padding-top:30px;
+	text-align:center;
+	height:95px;
+	width:100%;
+}
+.nav{
+	width:670px;
+	height:45px;
+	background-color:#fff;
+	margin:0 auto;
+	border-radius:23px;
+}
+.nav li{
+	float:left;
+	height:45px;
+	padding:0 30px;
+	line-height:45px;
+}
+.nav img{
+	float:left;
+}
+.nav li a{
+	display:block;
+	height:42px;
+	font-size:14px;
+	border-bottom:3px solid #1e50ae;
+}
+.nav li:last-child{
+	background:none;
+}
+.banner{
+	width:100%;
+	height:405px;
+}
+.serve{
+	width:1200px;
+	height:690px;
+	margin:0 auto;	
+	text-align:center;
+}
+.serve li{
+	float:left;
+}
+.serve .first>li{
+	width:300px;
+	height:370px;
+	margin-top:60px;
+}
+.serve .second>li{
+	width:300px;
+}
+.solve{
+	width:100%;
+	height:712px;
+}
+.box{
+	width:1200px;
+	height:712px;
+	margin:0 auto;
+	text-align:center;
+	font-size:34px;
+	position:relative;
+}
+.box li{
+	width:230px;
+	height:298px;
+	float:left;
+	margin-left:50px;
+	margin-top:70px;
+}
+.box button{
+	width:230px;
+	height:50px;
+	background:none;
+	border:1px solid #fff;
+	border-radius:25px;
+	margin-top:75px;
+	color:white;
+}
+.box0{
+	position:absolute;
+	top:345px;
+	left:0px;
+}
+.box1{
+	position:absolute;
+	top:345px;
+	right:0px;
+}
+.news{
+	width:100%;
+	height:800px;
+}
+.news div{
+	float:left;
+	width:504px;
+	height:260px;
+	margin:0 auto;
+}
+.news li{
+	line-height:35px;
+	font-size:14px;
+}
+.news button{
+	width:140px;
+	height:40px;
+	background:none;
+	border:1px solid #afbfe0;
+	border-radius:20px;
+	font-size:14px;
+	color:#1141a3;
+	text-align:center;
+}
+.bottom{
+	width:100%;
+	background-color:#eeeeef;
+}
+.bottom div{
+	width:1200px;
+	height:100px;
+	margin:0 auto;
+}
+.bottom li{
+	float:left;
+	height:102px;
+}
+.bottom0{
+	width:100%;
+	height:385px;
+	background-color:#323232;
+	color:#b6b6b6;
+	font-size:14px;
+}
+.bottom0 ul{
+	float:left;
+	margin-right:103px;
+	margin-top:75px;
+	line-height:40px;
+}
+.latter{
+	width:750px;
+	height:22px;
+	margin:0 auto;
+	font-size:14px;
+}
+.latter li{
+	float:left;
+}
+.latter li a{
+	height:22px;
+	font-size:14px;
+}
